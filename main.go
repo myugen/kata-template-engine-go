@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AgileCraftsmanshipCanarias/kata-setup-go/kata"
+	"github.com/myugen/kata-template-engine-go/kata"
 )
 
 func main() {
