@@ -18,7 +18,7 @@ Input:
 
 Output:
 ```
-- This template with one foo
+- This is a template with one foo
 ```
 
 ### Example 2:
@@ -34,8 +34,8 @@ Input:
 
 Output:
 ```
-- "This is a text with a variable to be replaced. " +
-"And this is another text with other-value to be replaced. " +
+- "This is a text with a value to be replaced. \n" +
+"And this is another text with other-value to be replaced. \n" +
 "And this is another text with another-value to be replaced."
 ```
 
